@@ -1,0 +1,14 @@
+{
+  "name": "react-native-config-parser",
+  "version": "1.0.0",
+  "description": "Simple parser to get config files, which converts true/false to boolean and valid numbers to numbers. Else are strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alann Sapone <sapone.alann@gmail.com>",
+  "license": "ISC",
+  "dependencies" : {
+    "react-native-config": "^0.11.5"
+  }
+}
